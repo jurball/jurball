@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Михаил</h1>
 <h3 align="center">Frontend developer from Russia</h3>
 
-### О себе:
+### О себе
 
+Студент техникума 4 курса **"Информационные системы и программирование 09.02.07"**. Изучаем полноценную веб-разработку включая дизайн, frontend и backend. 
 
+Основное направление развитие: Frontend, опыт на React 2 года
+
+Дополнительное обучение: Backend на Go
 
 ## Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jurball&theme=solarized_dark)
