@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm Михаил</h1>
-<h3 align="center">frontend developer</h3>
+<h3 align="center">Frontend developer from Russia</h3>
 
 <h3 align="left">О себе:</h3>
 <p align="left">
 </p>
 
-## Инструменты и навыки
+
+## Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jurball&theme=solarized_dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jurball&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### CodeWars профиль
+
+[![codewars](https://www.codewars.com/users/MikhaelP13_7475/badges/large)](https://www.codewars.com/users/MikhaelP13_7475)
 
 ### Programming Language
 
@@ -87,15 +95,3 @@
 </a>
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
 </p>
-
-## Top Langs
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jurball&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## CodeWars профиль
-
-[![codewars](https://www.codewars.com/users/MikhaelP13_7475/badges/large)](https://www.codewars.com/users/MikhaelP13_7475)
-
-## Подробнее
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jurball&theme=solarized_dark)
