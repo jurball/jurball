@@ -14,7 +14,7 @@
 
 [![codewars](https://www.codewars.com/users/MikhaelP13_7475/badges/large)](https://www.codewars.com/users/MikhaelP13_7475)
 
-### Programming Language
+### Инструменты и навыки
 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
