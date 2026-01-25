@@ -5,6 +5,10 @@
 <p align="left">
 </p>
 
+### Frontend
+
+![angular](https://angular.io/assets/images/logos/angular/angular.svg)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
